@@ -5,7 +5,7 @@ import { GifGrid } from './components/GifGrid';
 
 const GifExpertApp = () => {
     // const categories = ['smiling', 'sleeping', 'happy'];
-    const [categories, setCategories] = useState(['smiling', 'sleeping', 'happy']);
+    const [categories, setCategories] = useState(['sleeping chihuahua puppies', 'weimaraner dogs', 'black cats', 'smiling puppies']);
     // const handleAdd = () => {
     //     setCategories([...categories, 'puppies']); // También puede ser: setCategories( (estado anterior: ) cats => (nuevo estado: ) [...cats, 'puppies']);
     // };
